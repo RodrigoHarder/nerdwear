@@ -1,0 +1,26 @@
+.item{
+    display: flex;
+    gap:20px;
+    justify-content: center;
+    align-items: center;
+}
+
+.item div{
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    gap:10px;
+}
+
+.item button{
+    background-color: #F61067;
+}
+
+.caixa-de-selecao{
+    padding:10px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+    border:none;
+    background-color:#F61067;
+    color:#00F0B5;
+}

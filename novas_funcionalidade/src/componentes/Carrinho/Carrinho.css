@@ -1,0 +1,35 @@
+.carrinho{
+    background-color: #5E239D;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+    width: 700px;
+    text-align: center;
+}
+
+.cupom{
+    display: flex;
+    gap: 20px;
+    justify-content: center;
+    align-items: center;
+}
+
+.cupom input{
+    padding: 10px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+    border:none;
+    background-color:#F61067;
+    font-weight: 900;
+    color:#00F0B5;
+}
+
+.cupom button{
+    padding: 10px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+    border:none;
+    background-color:#00F0B5;
+    font-weight: 900;
+    color:#F61067;
+}
